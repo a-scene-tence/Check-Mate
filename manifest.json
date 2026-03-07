@@ -2,7 +2,7 @@
   "name": "돈워리",
   "short_name": "돈워리",
   "description": "개인·공동 지출을 한 번에 관리하는 스마트 가계부",
-  "start_url": "/",
+  "start_url": "/donworry/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
@@ -61,5 +61,6 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "scope": "/donworry/"
 }
